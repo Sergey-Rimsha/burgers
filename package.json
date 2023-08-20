@@ -6,7 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "ghpages-push": "npx angular-cli-ghpages --dir=dist/burgers"
   },
   "private": true,
   "dependencies": {
