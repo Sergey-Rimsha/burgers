@@ -44,7 +44,7 @@
                 }
               ],
               "outputHashing": "all",
-              "baseHref": "/burgers/"
+              "baseHref": "https://Sergey-Rimsha.github.io/burgers/"
             },
             "development": {
               "buildOptimizer": false,
